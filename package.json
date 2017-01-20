@@ -2,7 +2,10 @@
   "name": "meat",
   "version": "1.0.0",
   "description": "Meat Locker",
-  "main": "index.js",
+  "main": "src/index.js",
+  "dependencies": {
+    "rpi-gpio": "^0.7.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
