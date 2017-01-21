@@ -3,6 +3,8 @@
 Requirements
 Node.js - installing node on raspberry pi https://learn.adafruit.com/node-embedded-development/installing-node-dot-js
 
+To Test
+* https://www.npmjs.com/package/raspi-sensors
 
 Node Modules
 * https://github.com/adafruit/Adafruit_Python_DHT
